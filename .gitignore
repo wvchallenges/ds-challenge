@@ -1,0 +1,5 @@
+docker-compose.yml
+__pycache__
+celerybeat-schedule
+celerybeat.pid
+db.sqlite3
